@@ -1,8 +1,10 @@
 # 6069-People-Face-Recognition-Data-with-Gauze-Mask
-https://www.datatang.ai/datasets/1084
+
 
 ## Description
 6,069 People - Face Recognition Data with Gauze Mask, for each subject, 7 images were collected. The dataset diversity includes multiple mask types, multiple ages, multiple races, multiple light conditions and scenes.This data can be applied to computer vision tasks such as occluded face detection and recognition.
+
+For more details, please refer to the link: https://bit.ly/3fh2D0H
 
 ## Data size
 6,069 people, 7 images per person
@@ -30,3 +32,6 @@ jpg
 
 ## Accuracy
 the accuracy of labels of mask type, gender, race and age are more than 97%
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
