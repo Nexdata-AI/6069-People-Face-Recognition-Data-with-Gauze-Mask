@@ -2,37 +2,19 @@
 
 
 ## Description
-6,069 People - Face Recognition Data with Gauze Mask, for each subject, 7 images were collected. The dataset diversity includes multiple mask types, multiple ages, multiple races, multiple light conditions and scenes.This data can be applied to computer vision tasks such as occluded face detection and recognition.
+This dataset contains facial images from 6,502 individuals, with 7 images collected for each person under diverse real-world conditions. The dataset covers various demographic characteristics, including different age groups and ethnic backgrounds,covering Asian(Cambodia,Indonesia,Korea,Philippines,Vietnam), Black, Caucasian, and other populations, as well as multiple environments such as indoor and outdoor scenes. It includes different mask types, facial occlusion conditions, and lighting variations. The dataset is suitable for masked face recognition, face verification and face identification.
 
 For more details, please refer to the link: https://www.nexdata.ai/datasets/computervision/1084?source=Github
 
 
-## Data size
-6,069 people, 7 images per person
-
-## Race distribution
-4,611 Asian people, 951 black people, 42 brown people, 465 Caucasian people
-
-## Gender distribution
-3,420 males, 2,649 females
-
-## Age distribution
-ranging from teenager to the elderly, the middle-aged and young people are the majorities
-
-## Collecting environment
-including indoor and outdoor scenes
-
-## Data diversity
-multiple mask types, multiple ages, multiple races, multiple light conditions and scenes
-
-## Device
+## Data content
+6,502 people of face images with mask, 7 images per person
+## Data distribution
+① different races like Asian (5,044 people), black (951 people), brown (42 people), Caucasian (465 people); ② different genders like female(3,828 people) and male(2,674 people); ③ different ages like teenager, young, middle-aged and the elderly; ④ different scenes like indoor and outdoor; ⑤ different types of mask and light condition
+## Collection device
 cellphone
-
 ## Data format
-jpg
-
-## Accuracy
-the accuracy of labels of mask type, gender, race and age are more than 97%
+.jpg, .jpeg
 
 # Licensing Information
 Commercial License
